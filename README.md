@@ -5,6 +5,7 @@ A handy Automator workflow that imports your DayOne starred note to Evernote.
 
 ### Usage
 
+0. [Download the app](https://github.com/downloads/mootoh/DayOneToEvernote/DayOneToEvernote.zip)
 1. Star your DayOne notes
 2. Launch DayOne to Evernote app
 3. Specify the index of the note to import (0 origin)
