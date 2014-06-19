@@ -17,6 +17,7 @@ A handy Automator workflow that imports your DayOne starred note to Evernote.
 ### Setup
 
     % gem install sqlite3
+    % gem install etc
 
 ### ToDo
 
